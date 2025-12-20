@@ -11,6 +11,9 @@ export UPINFO="gh-releases-zsync|${GITHUB_REPOSITORY%/*}|${GITHUB_REPOSITORY#*/}
 export ICON=/usr/share/icons/hicolor/128x128/apps/librecad.png
 export DESKTOP=/usr/share/applications/librecad.desktop
 
+# fix massive screwed up from upstream
+rm -f /usr/share/librecad/plugins/'*.so'
+
 # Deploy dependencies
 quick-sharun \
 	/usr/bin/librecad \
