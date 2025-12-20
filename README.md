@@ -1,9 +1,9 @@
-# librecad-AppImage 🐧
+# LibreCAD-AppImage 🐧
 
-[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/librecad-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/librecad-AppImage/releases/latest)
-[![CI Build Status](https://github.com//pkgforge-dev/librecad-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/librecad-AppImage/releases/latest)
+[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/LibreCAD-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/LibreCAD-AppImage/releases/latest)
+[![CI Build Status](https://github.com//pkgforge-dev/LibreCAD-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/LibreCAD-AppImage/releases/latest)
 
-* [Latest Stable Release](https://github.com/pkgforge-dev/librecad-AppImage/releases/latest)
+* [Latest Stable Release](https://github.com/pkgforge-dev/LibreCAD-AppImage/releases/latest)
 
 ---
 
