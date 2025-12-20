@@ -6,7 +6,7 @@ ARCH=$(uname -m)
 
 echo "Installing package dependencies..."
 echo "---------------------------------------------------------------"
-pacman -Syu --noconfirm librecad
+pacman -Syu --noconfirm librecad qt5-wayland
 
 echo "Installing debloated packages..."
 echo "---------------------------------------------------------------"
