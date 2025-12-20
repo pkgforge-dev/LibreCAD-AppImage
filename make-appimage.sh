@@ -14,6 +14,7 @@ export DESKTOP=/usr/share/applications/librecad.desktop
 # Deploy dependencies
 quick-sharun \
 	/usr/bin/librecad \
+	/usr/bin/ttf2lff  \
 	/usr/lib/librecad \
 	/usr/share/librecad
 
