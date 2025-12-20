@@ -1,9 +1,9 @@
-# TEMPLATE-AppImage 🐧
+# librecad-AppImage 🐧
 
-[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/TEMPLATE-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/TEMPLATE-AppImage/releases/latest)
-[![CI Build Status](https://github.com//pkgforge-dev/TEMPLATE-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/TEMPLATE-AppImage/releases/latest)
+[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/librecad-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/librecad-AppImage/releases/latest)
+[![CI Build Status](https://github.com//pkgforge-dev/librecad-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/librecad-AppImage/releases/latest)
 
-* [Latest Stable Release](https://github.com/pkgforge-dev/TEMPLATE-AppImage/releases/latest)
+* [Latest Stable Release](https://github.com/pkgforge-dev/librecad-AppImage/releases/latest)
 
 ---
 
@@ -21,6 +21,3 @@ More at: [AnyLinux-AppImages](https://pkgforge-dev.github.io/Anylinux-AppImages/
   </a>
 </details>
 
----
-
-# Fork this repository to quickly make an AppImage using the [Anylinux-AppImages](https://github.com/pkgforge-dev/Anylinux-AppImages) tools
