@@ -21,7 +21,9 @@ quick-sharun \
 	/usr/lib/librecad \
 	/usr/share/librecad
 
-# Additional changes can be done in between here
+# The gtk3 plugin does not change the look of the app for some reason
+# this bug also hapens when test the native distro package
+rm -f ./AppDir/lib/qt/plugins/platformthemes/libqgtk3.so
 
 # Turn AppDir into AppImage
 quick-sharun --make-appimage
